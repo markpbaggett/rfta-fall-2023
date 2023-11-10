@@ -9,7 +9,7 @@
       "https://digital.lib.utk.edu/assemble/manifest/rftaart/6",
       "https://digital.lib.utk.edu/assemble/manifest/rftaart/37"
     ],
-    "metadata": ["Subject"]
+    "metadata": ["Interviewer", "Browse", "Subject", "Format", "Place", "Artist"]
   },
   "dev": {
     "label": { "none": ["Rising from the Ashes"] },
@@ -21,6 +21,6 @@
       "https://digital.lib.utk.edu/assemble/manifest/rftaart/6",
       "https://digital.lib.utk.edu/assemble/manifest/rftaart/37"
     ],
-    "metadata": ["Subject"]
+    "metadata": ["Interviewer", "Browse", "Subject", "Format", "Place", "Artist"]
   }
 }
