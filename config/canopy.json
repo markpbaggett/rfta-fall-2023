@@ -4,23 +4,23 @@
     "summary": {
       "none": ["THE CHIMNEY TOPS 2 WILDFIRES ORAL HISTORY PROJECT"]
     },
-    "collection": "https://gist.githubusercontent.com/markpbaggett/845dcba55b555bf778d45d03b85eab31/raw/715695662d62719004a9a5d0148b3b30c2c3ebc2/quick_test.json",
+    "collection": "https://gist.githubusercontent.com/markpbaggett/d69be3d3fa289a916614ea3e06ba3c23/raw/696055bd249ea58ade8af9d2b36287633e6d7977/rfta.json",
     "featured": [
       "https://digital.lib.utk.edu/assemble/manifest/rftaart/6",
       "https://digital.lib.utk.edu/assemble/manifest/rftaart/37"
     ],
-    "metadata": ["Subject"]
+    "metadata": ["Place"]
   },
   "dev": {
     "label": { "none": ["Rising from the Ashes"] },
     "summary": {
       "none": ["THE CHIMNEY TOPS 2 WILDFIRES ORAL HISTORY PROJECT"]
     },
-    "collection": "https://gist.githubusercontent.com/markpbaggett/845dcba55b555bf778d45d03b85eab31/raw/715695662d62719004a9a5d0148b3b30c2c3ebc2/quick_test.json",
+    "collection": "https://gist.githubusercontent.com/markpbaggett/d69be3d3fa289a916614ea3e06ba3c23/raw/696055bd249ea58ade8af9d2b36287633e6d7977/rfta.json",
     "featured": [
       "https://digital.lib.utk.edu/assemble/manifest/rftaart/6",
       "https://digital.lib.utk.edu/assemble/manifest/rftaart/37"
     ],
-    "metadata": ["Subject"]
+    "metadata": ["Place"]
   }
 }
